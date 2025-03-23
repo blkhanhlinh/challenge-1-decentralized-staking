@@ -7,7 +7,7 @@ const deployedContracts = {
   devnet: {
     ExampleExternalContract: {
       address:
-        "0xfa89866bf639abbe7749e91297e83c4ed9879ad8fa41f99e05d42a59ebeacb",
+        "0x7aff9db1375a708fbf143e40c308067543241508cc801c65710debf183d6623",
       abi: [
         {
           type: "impl",
@@ -65,7 +65,7 @@ const deployedContracts = {
     },
     Staker: {
       address:
-        "0x5a23b8ef2f67dcdef509bbf359595c7e353812072f0b560685b99a27ad12b52",
+        "0x541bf0f969ecc9a40116b21023a1a22147eca2856b3f00ad3d373117b8b2609",
       abi: [
         {
           type: "impl",
@@ -291,13 +291,13 @@ const deployedContracts = {
         },
       ],
       classHash:
-        "0x562248478488164140bb2fe68401784521d4ba31d7a0029498c623bb7d3819b",
+        "0x1f92b87b57c6bd47a2d06411e505a5548d56db80dc67c3934e279bcf676f734",
     },
   },
   sepolia: {
     ExampleExternalContract: {
       address:
-        "0x762dc4b362ca924259663dc971a18e24eb59d1437251e9c9db709635a92ad35",
+        "0x2869bf2983c6b214ff1a8f556bbb2a98eb15bae208e510a89b001b3a3096660",
       abi: [
         {
           type: "impl",
@@ -355,7 +355,7 @@ const deployedContracts = {
     },
     Staker: {
       address:
-        "0x59a79b3efb82c1e9e53cdea2af576c468e3f669a58dc6bdbd9a8bdf78aff2ff",
+        "0x7930ed6b62d9b76f464b7e7f15afa0ef2b47b5e43196fc13073a6c39153399b",
       abi: [
         {
           type: "impl",
@@ -581,7 +581,7 @@ const deployedContracts = {
         },
       ],
       classHash:
-        "0x562248478488164140bb2fe68401784521d4ba31d7a0029498c623bb7d3819b",
+        "0x5328a456b34805750f3f0800bea6ed174ef13cd9390b974bec36ee9ac97dab2",
     },
   },
 } as const;
